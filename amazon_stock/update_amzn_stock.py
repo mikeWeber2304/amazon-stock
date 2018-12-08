@@ -1,4 +1,4 @@
-import mws
+from . import mws
 import json
 import requests
 from time import sleep
