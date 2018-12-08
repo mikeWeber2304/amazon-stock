@@ -1,3 +1,4 @@
-from amazon_stock import update_amzn_stock
+from amazon_stock import update_stock
 
+update_stock()
 
